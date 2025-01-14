@@ -1,10 +1,9 @@
 # Assignment A1 - Maze Runner
 
-  * **Student**: [FIRSTNAME LASTNAME](MACID@mcmaster.ca)
-  * **Program**: B. Eng. In Software Engineering
-  * **Course code**: SFWRENG 2AA4
-  * **Course Title**: Software Design I - Introduction to Software Development 
-  * Term: *Level II - Winter 2024*
+- Original author: Dr. [Sébastien Mosser](https://mosser.github.io)
+- Version: 2024.01
+- Context: McMaster University > Engineering > Computing & Software > SFWRENG > 2AA4
+- License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Business Logic Specification
 
