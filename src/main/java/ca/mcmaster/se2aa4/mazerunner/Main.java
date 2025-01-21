@@ -31,9 +31,9 @@ public class Main {
             while ((line = reader.readLine()) != null) {
                 for (int idx = 0; idx < line.length(); idx++) {
                     if (line.charAt(idx) == '#') {
-                        System.out.print("WALL ");
+                        logger.debug("WALL ");
                     } else if (line.charAt(idx) == ' ') {
-                        System.out.print("PASS ");
+                        logger.debug("PASS ");
                     }
                 }
                 System.out.print(System.lineSeparator());
